@@ -1,0 +1,24 @@
+Deck
+3 Inspiring Commander (ANB) 11
+3 Leonin Warleader (ANB) 13
+4 Hallowed Priest (ANB) 9
+25 Plains (ANB) 115
+1 Angelic Reward (ANB) 3
+4 Pacifism (ANB) 16
+1 Confront the Assault (ANB) 6
+4 Charmed Stray (ANB) 5
+3 Impassioned Orator (ANB) 10
+3 Moorland Inquisitor (ANB) 15
+3 Fencing Ace (ANB) 7
+3 Angel of Vitality (ANB) 1
+1 Serra Angel (ANB) 18
+1 Spiritual Guardian (ANB) 21
+4 Tactical Advantage (ANB) 22
+2 Angelic Guardian (ANB) 2
+2 Goring Ceratops (ANB) 8
+2 Bond of Discipline (ANB) 4
+
+Sideboard
+3 Knight's Pledge (ANB) 12
+2 Sanctuary Cat (ANB) 17
+4 Shrine Keeper (ANB) 19
