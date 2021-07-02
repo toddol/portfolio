@@ -1,0 +1,24 @@
+Deck
+3 Demon of Loathing (ANB) 48
+3 Mardu Outrider (ANB) 52
+3 Malakir Cullblade (ANB) 51
+2 Sanitarium Skeleton (ANB) 57
+2 Typhoid Rats (ANB) 63
+2 Vampire Opportunist (ANB) 65
+4 Savage Gorger (ANB) 58
+3 Skeleton Archer (ANB) 61
+2 Sengir Vampire (ANB) 60
+4 Compound Fracture (ANB) 46
+3 Unlikely Aid (ANB) 64
+4 Murder (ANB) 53
+1 Cruel Cut (ANB) 47
+25 Swamp (ANB) 116
+2 Bad Deal (ANB) 45
+2 Soulhunter Rakshasa (ANB) 62
+2 Nightmare (ANB) 54
+2 Eternal Thirst (ANB) 49
+
+Sideboard
+2 Krovikan Scoundrel (ANB) 50
+4 Scathe Zombies (ANB) 59
+3 Raise Dead (ANB) 56

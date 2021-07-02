@@ -1,0 +1,25 @@
+Deck
+2 Burn Bright (ANB) 68
+3 Goblin Gang Leader (ANB) 70
+4 Goblin Gathering (ANB) 71
+2 Goblin Trashmaster (ANB) 72
+3 Goblin Tunneler (ANB) 73
+2 Immortal Phoenix (ANB) 75
+3 Inescapable Blaze (ANB) 76
+3 Molten Ravager (ANB) 78
+4 Nest Robber (ANB) 79
+3 Ogre Battledriver (ANB) 80
+2 Raid Bombardment (ANB) 82
+1 Shock (STA) 44
+2 Shock (ANB) 84
+3 Siege Dragon (ANB) 85
+2 Storm Strike (ANB) 86
+3 Tin Street Cadet (ANB) 87
+2 Volcanic Dragon (ANB) 88
+25 Mountain (STX) 373
+
+Sideboard
+4 Hurloon Minotaur (ANB) 74
+2 Raging Goblin (ANB) 81
+1 Reduce to Ashes (ANB) 83
+2 Reduce to Ashes (ANB) 83
